@@ -1,1 +1,40 @@
-#dev
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title> WALL-E </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <img src="shubham.jpeg" width = "100 "  height = "110" alt="sam">
+<h1> SHUBHAM MISHRA </h1>
+<P> <em> <a href="https://www.youtube.com/c/marvel">Marvel</a> fan ,love cosmology and quantum mechanics  </em> </P> 
+<p> I am just a kid wondering his way through the cosmos .</p>
+<hr>
+<h3> EDUCATION</h3>
+<ul><li>HEMA HR. SECONDARY SCHOOL</li></ul>
+<hr>
+<h3>EXPERIENCE</h3>
+<table > 
+    <tr>
+        <th>S.NO.</th>
+        <th>SKILLS</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>DATA STRUCTURE</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>C++</td>
+    </tr>
+</table>
+<hr> 
+<a href="hobbie.html">HOBBIES</a> 
+
+    </body>
+</html>
