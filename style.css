@@ -1,0 +1,27 @@
+
+    hr{ 
+        
+        background-color: #258d9b ;  
+        border-style: none ;
+        border-top-style: dotted ;
+        border-color : gray ;
+        height : 0px ;
+        width : 50px ;
+        border-width : 5px ; 
+          
+           /* selector { property : value ; } */
+       }
+     h1 {
+         color: rgb(25, 104, 100) ;
+     }  
+
+
+h3 {
+         color: rgb(25, 104, 100) ;
+         
+}
+
+
+.h1 {
+     color: red ;
+}
